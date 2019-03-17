@@ -3,10 +3,10 @@
     <section class="feature-large feature-large-2 bg--secondary">
       <div class="container">
         <div class="row justify-content-around">
-          <div class="col-md-4 col-lg-3">
+          <div class="col-md-4 col-lg-4">
             <h3>Modélisation du comportement du Blob</h3>
             <p class="lead">
-              je sais pas quoi mettre
+              Nous avons utilisé l'algorithme A*. Son but est de trouver le “coût” de parcours le plus faible, minimisant <strong>f(n)=g(n)+h(n)</strong>.
             </p>
           </div>
           <div class="col-md-4 col-lg-4">
@@ -15,7 +15,7 @@
           <div class="col-md-4 col-lg-2">
             <hr class="short" />
             <p>
-              une petite explication ici
+              Ici nous avons en vert le nœud de départ, en rouge celui d'arrivée ainsi que la valeur de f pour chacun des nœuds parcourus
             </p>
           </div>
         </div>
@@ -33,11 +33,11 @@
               <div class="col-lg-10 mx-auto col-md-12">
                 <h3>Programmation</h3>
                 <p class="lead">
-                  je sais pas quoi mettre
+                  Nous avons programmé en utilisant le langage JavaScript accompagné de l'environnement Node.js. L'utilisation de Git nous a permis de travailler à trois.
                 </p>
                 <hr class="short" />
                 <p>
-                  je sais pas quoi mettre
+                  Ci-contre voici une capture d'écran de l'IDE (EID en français) WebStorm que nous avons utilisé pour concevoir notre programme.
                 </p>
               </div>
             </div>
