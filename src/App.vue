@@ -18,25 +18,6 @@
             <div class="col-lg-1 col-md-2 hidden-xs">
               <h1 class="color--primary">TPE</h1>
             </div>
-            <div class="col-lg-11 col-md-12 text-right text-left-xs text-left-sm">
-              <div class="bar__module">
-                <a class="btn btn--sm inner-link type--uppercase" href="#histoire-et-fonctionnement">
-                  <span class="btn__text">
-                    Histoire et fonctionnement
-                  </span>
-                </a>
-                <a class="btn btn--sm inner-link type--uppercase" href="#experimentations">
-                  <span class="btn__text">
-                    Expérimentations
-                  </span>
-                </a>
-                <a class="btn btn--sm inner-link type--uppercase" href="#modelisation">
-                  <span class="btn__text">
-                    Modélisation
-                  </span>
-                </a>
-              </div>
-            </div>
           </div>
         </div>
       </nav>
@@ -60,7 +41,22 @@
         </div>
       </section>
 
+      <story></story>
+      <experiences></experiences>
 
+      <section class="page-navigator">
+        <ul>
+          <li>
+            <a href="#histoire" class="inner-link" data-title="Histoire et fonctionnement"></a>
+          </li>
+          <li>
+            <a href="#experimentations" class="inner-link" data-title="Expérimentations"></a>
+          </li>
+          <li>
+            <a href="#modelisation" class="inner-link" data-title="Modélisation"></a>
+          </li>
+        </ul>
+      </section>
       <footer class="space--sm footer-2 ">
         <div class="container">
           <div class="col-md-6">
@@ -73,21 +69,14 @@
 </template>
 
 <script>
+  import Story from './components/Story.vue'
+  import Experiences from './components/Experiences.vue'
 
-export default {
-  name: 'app',
-  components: {
+  export default {
+    name: 'app',
+    components: {
+      Experiences,
+      Story
+    }
   }
-}
 </script>
-
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
