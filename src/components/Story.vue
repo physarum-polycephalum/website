@@ -58,7 +58,8 @@
             <div class="modal-instance block">
               <div class="video-play-icon video-play-icon--sm modal-trigger"></div>
               <span>
-                                    <strong>Voir le cytoplasme en action</strong></span>
+                <strong>Voir le cytoplasme en action</strong>
+              </span>
               <div class="modal-container">
                 <div class="modal-content bg-dark" data-width="60%" data-height="60%">
                   <iframe data-src="https://www.youtube.com/embed/6p45ooZOOPo?autoplay=1" allowfullscreen="allowfullscreen"></iframe>

@@ -1,27 +1,5 @@
 <template>
   <div>
-    <div class="nav-container">
-      <div class="bar bar--sm visible-xs">
-        <div class="container">
-          <div class="row">
-            <div class="col-9 col-md-10 text-right">
-              <a href="#" class="hamburger-toggle" data-toggle-class="#menu1;hidden-xs">
-                <i class="icon icon--sm stack-interface stack-menu"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <nav id="menu1" class="bar bar--sm bar-1 hidden-xs bar--absolute bar--transparent">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-1 col-md-2 hidden-xs">
-              <h1 class="color--primary">TPE</h1>
-            </div>
-          </div>
-        </div>
-      </nav>
-    </div>
     <div class="main-container">
       <section class="cover height-100 imagebg parallax" data-overlay="4">
         <div class="background-image-holder">
