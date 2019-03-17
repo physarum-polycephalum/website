@@ -21,6 +21,7 @@
 
       <story></story>
       <experiences></experiences>
+      <modelling></modelling>
 
       <section class="page-navigator">
         <ul>
@@ -35,10 +36,13 @@
           </li>
         </ul>
       </section>
-      <footer class="space--sm footer-2 ">
+
+      <footer class="footer-7 text-center-xs bg--secondary">
         <div class="container">
-          <div class="col-md-6">
-            Réalisé par Clément Polycarpe, Bernard-Raphaël Mermet et Hugo Lageneste
+          <div class="row">
+            <div class="col-md-6">
+              Réalisé par Clément Polycarpe, Bernard-Raphaël Mermet et Hugo Lageneste
+            </div>
           </div>
         </div>
       </footer>
@@ -49,12 +53,14 @@
 <script>
   import Story from './components/Story.vue'
   import Experiences from './components/Experiences.vue'
+  import Modelling from './components/Modelling.vue'
 
   export default {
     name: 'app',
     components: {
       Experiences,
-      Story
+      Story,
+      Modelling
     }
   }
 </script>

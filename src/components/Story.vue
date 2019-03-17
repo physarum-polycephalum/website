@@ -15,9 +15,7 @@
             </div>
           </div>
         </div>
-        <!--end of row-->
       </div>
-      <!--end of container-->
     </section>
 
     <section class="feature-large feature-large-2 bg--secondary">
@@ -39,9 +37,7 @@
             </p>
           </div>
         </div>
-        <!--end of row-->
       </div>
-      <!--end of container-->
     </section>
 
     <section class="cover height-80 imagebg text-center" data-overlay="6">
@@ -62,7 +58,7 @@
               </span>
               <div class="modal-container">
                 <div class="modal-content bg-dark" data-width="60%" data-height="60%">
-                  <iframe data-src="https://www.youtube.com/embed/6p45ooZOOPo?autoplay=1" allowfullscreen="allowfullscreen"></iframe>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/pO48XNqT6l8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
               </div>
             </div>
