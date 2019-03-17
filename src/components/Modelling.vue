@@ -66,7 +66,7 @@
               <div class="feature__body">
                 <h5>Labyrinthe résolu</h5>
                 <p>
-                  Après le passage de notre programme cette image est générée, avec en bleu le trajet le plus court déterminé par l'algorithme.
+                  Après l'éxécution de notre programme cette image est générée, avec en bleu le trajet le plus court déterminé par l'algorithme.
                 </p>
               </div>
             </div>
