@@ -10,7 +10,7 @@
             <div class="switchable__text">
               <h2>Histoire et fonctionnement du Blob</h2>
               <p class="lead">
-                Le physarum polycephalum est une espèce qui se situe principalement dans les sous bois ou dans les zones humides.
+                Le physarum polycephalum est une espèce qui se trouve principalement dans les sous bois ou dans les zones humides.
               </p>
             </div>
           </div>

@@ -12,7 +12,7 @@
                 <span class="h1 typed-text typed-text--cursor" data-typed-strings="Un être hors du commun : Le physarum polycephalum"></span>
               </div>
               <p class="lead">
-                Est-il possible modéliser le comportement d'un être vivant sous forme informatique ?
+                Est-il possible de modéliser le comportement d'un être vivant sous forme informatique ?
               </p>
             </div>
           </div>
