@@ -10,7 +10,7 @@
             <div class="switchable__text">
               <h2>Histoire et fonctionnement du Blob</h2>
               <p class="lead">
-                je sais pas quoi mettre
+                Le physarum polycephalum est une espèce qui se situe principalement dans les sous bois ou dans les zones humides.
               </p>
             </div>
           </div>
@@ -24,7 +24,7 @@
           <div class="col-md-4 col-lg-3">
             <h3>Préparation du Blob</h3>
             <p class="lead">
-              je sais pas quoi mettre
+              Nous avons cultivé le physarum polycephalum en coulant premièrement une gélose dans une boîte de pétri. Ensuite poser la sclérote sur la gélose avec des flocons d'avoine.
             </p>
           </div>
           <div class="col-md-4 col-lg-4">
@@ -33,7 +33,7 @@
           <div class="col-md-4 col-lg-2">
             <hr class="short" />
             <p>
-              une petite explication ici
+              Voici ici notre première culture de physarum polycephalum après 1 heure de développement
             </p>
           </div>
         </div>
@@ -48,9 +48,6 @@
         <div class="row">
           <div class="col-md-6">
             <span class="h1">Le ”sang“ du blob</span>
-            <p class="lead">
-              texte ici si vous voulez
-            </p>
             <div class="modal-instance block">
               <div class="video-play-icon video-play-icon--sm modal-trigger"></div>
               <span>

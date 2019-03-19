@@ -1,3 +1,4 @@
+<script src="../../../checker/main.js"></script>
 <template>
   <div id="experimentations">
     <section class="switchable feature-large">
@@ -7,7 +8,7 @@
             <div class="switchable__text">
               <h2>Expérimentations avec le Blob</h2>
               <p class="lead">
-                je sais pas quoi mettre
+                Nous avons utilisé DesignSpark pour modéliser notre labyrinthe en 3D. Puis l'avons imprimé en 3 heures.
               </p>
             </div>
           </div>
@@ -15,9 +16,7 @@
             <img alt="Image" class="border--round" src="img/conception-labyrinthe.png" />
           </div>
         </div>
-        <!--end of row-->
       </div>
-      <!--end of container-->
     </section>
 
     <section>
@@ -26,27 +25,27 @@
           <div class="col-md-4">
             <div class="feature">
               <img alt="Image" src="img/labyrinthe-0.png" class="border--round" />
-              <h4>je sais pas quoi mettre</h4>
+              <h4>H-0 Début de l'expérience</h4>
               <p>
-                je sais pas quoi mettre
+                Morceaux de blob disposés dans le labyrinthe.
               </p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="feature">
               <img alt="Image" src="img/labyrinthe-1.png" class="border--round" />
-              <h4>je sais pas quoi mettre</h4>
+              <h4>H-6 Expérience en cours</h4>
               <p>
-                je sais pas quoi mettre
+                Le blob a recouvert la quasi-totalité du labyrinthe...
               </p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="feature">
               <img alt="Image" src="img/labyrinthe-2.png" class="border--round" />
-              <h4>je sais pas quoi mettre</h4>
+              <h4>H-12 Expérience terminée</h4>
               <p>
-                je sais pas quoi mettre
+                Le blob s'est concentré sur le chemin le plus court.
               </p>
             </div>
           </div>
